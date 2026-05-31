@@ -1,0 +1,14 @@
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.AssemblyInfoInputs.cache
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.AssemblyInfo.cs
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.csproj.CoreCompileInputs.cache
+C:\Практика ПР\Praktychna1\Praktychna1\bin\Debug\net10.0\Praktychna1.exe
+C:\Практика ПР\Praktychna1\Praktychna1\bin\Debug\net10.0\Praktychna1.deps.json
+C:\Практика ПР\Praktychna1\Praktychna1\bin\Debug\net10.0\Praktychna1.runtimeconfig.json
+C:\Практика ПР\Praktychna1\Praktychna1\bin\Debug\net10.0\Praktychna1.dll
+C:\Практика ПР\Praktychna1\Praktychna1\bin\Debug\net10.0\Praktychna1.pdb
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.dll
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\refint\Praktychna1.dll
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.pdb
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\Praktychna1.genruntimeconfig.cache
+C:\Практика ПР\Praktychna1\Praktychna1\obj\Debug\net10.0\ref\Praktychna1.dll
